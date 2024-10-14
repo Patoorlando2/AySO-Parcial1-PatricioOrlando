@@ -7,20 +7,20 @@ sudo groupadd grupotester
 sudo groupadd grupoanalistas
 sudo groupadd grupodisenadores
 
-sudo adduser programadores
+sudo useradd programadores
 sudo usermod -aG grupoprogramadores programadores
 sudo usermod -aG grupoprogramadores vagrant
 
 
-sudo adduser tester
+sudo useradd tester
 sudo usermod -aG grupotester tester
 sudo usermod -aG grupotester vagrant
 
-sudo adduser analistas
+sudo useradd analistas
 sudo usermod -aG grupoanalistas analistas
 sudo usermod -aG grupoanalistas vagrant
 
-sudo adduser disenadores
+sudo useradd disenadores
 sudo usermod -aG grupodisenadores disenadores
 sudo usermod -aG grupodisenadores vagrant
 
