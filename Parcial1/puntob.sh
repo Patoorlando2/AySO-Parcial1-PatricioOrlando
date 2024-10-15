@@ -39,4 +39,4 @@ sudo mount /dev/sdc1 /mnt/sdc1 && sudo mount /dev/sdc2 /mnt/sdc2 && sudo mount /
 
 
 #Guardado permanente
-
+echo "Se agregó el montaje al /etc/fstab"
