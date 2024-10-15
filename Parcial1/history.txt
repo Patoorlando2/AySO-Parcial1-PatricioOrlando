@@ -1,0 +1,421 @@
+ls
+ssh-keygen
+ls -a
+cd .ssh
+ls
+cat id_rsa.pub
+cd ..
+ls
+cd ..
+ls
+cd repogit/
+ls
+cd UTN-FRA_SO_onBording/
+ls
+cd ..
+ls
+mkdir Parcial1
+ls
+cd Parcial1/
+ls
+git clone git@github.com:Patoorlando2/AySO-Parcial1-PatricioOrlando.git
+ls
+cd AySO-Parcial1-PatricioOrlando/
+ls
+mkdir carpeta de prueba
+ls
+rm -rf  carpeta  de  prueba
+ls
+cd ..
+ls
+cd ..
+ls
+cd Parcial1/
+ls
+mv cd ..
+cd ..
+ls
+cd Parcial1/ 
+ls
+cd ..
+ls
+cd Parcial1
+ls
+cd ..
+ls
+mv Parcial1/ AySO-Parcial1-PatricioOrlando/
+ls
+cd AySO-Parcial1-PatricioOrlando/
+ls
+cd AySO-Parcial1-PatricioOrlando/
+ls
+cd ..
+ls
+cd ..
+ls
+ls -a
+mv AySO-Parcial1-PatricioOrlando Parcial1
+ls
+cd Parcial1
+ls
+ls -a
+cd A
+cd AySO-Parcial1-PatricioOrlando/
+ls
+ls -a
+Parcial1,{puntoa.sh,puntob.sh,puntoc.sh,puntod.sh,puntoe.sh,puntof.sh}
+mkdir -p Parcial1 | touch Parcial1/{puntoa.sh,puntob.sh,puntoc.sh,puntod.sh,puntoe.sh,puntof.sh}
+ls
+cd Parcial1/
+ls
+la
+ls
+cd ..
+ls
+cd Parcial1
+ls
+mkdir -p Examenes-UTN/{alumno_1/{parcial_1,parcial_2,parcial_3},alumno_2/{parcial_1,parcial_2,parcial_3},alumno_3/{parcial_1,parcial_2,parcial_3},profesores}
+ls
+cd Examenes-UTN
+tree
+sudo apt install tree
+snap install tree
+sudo snap install tree
+ls
+cd ..
+tree
+man history
+cat ./bash_history
+sudo cat ./bash_history
+cat ~/.bash_history
+cd
+ls
+cd ..
+ls
+cd vagrant/
+ls -a
+cat bash_history
+cat ./bash_history
+history
+ls
+cd Parcial1/
+ls
+cd AySO-Parcial1-PatricioOrlando/
+ls
+cd Parcial1/
+ls
+cat history | grep "77" >> puntoa.sh
+cat ~/.bash_history | grep "77" >> puntoa.sh
+cd
+cd
+ls
+ls -a
+history -w
+cd repogit
+ls
+cd ..
+ls
+cd ..
+ls
+cd vagrant/
+ls
+ls -a
+cat .bash_logut
+cat .bash_logout
+ls
+cd Parcial1/
+ls
+cd AySO-Parcial1-PatricioOrlando/
+ls
+cd Parcial1/
+ls
+lsblk
+sudo fdisk  /dev/sdc
+lsblk
+sudo fdisk /dev/sdc
+sudo fdisk -l
+sudo fdisk /dev/sdc
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+cat ~/.bash,history
+cat ~/.bash_history
+ls
+ls -a
+cat .bash_history
+ls
+cd Parcial1/
+ls
+cd AySO-Parcial1-PatricioOrlando/
+ls
+cd Parcial1/
+ls
+vim puntob.sh
+ls
+cat puntob.sh
+ll
+sudo chmod 755 puntob.sh
+ll
+lsblk
+sudo fdisk /dev/sdc
+ll
+./puntob.sh
+ll
+lsblk
+cat puntob.sh
+vim puntob.sh
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+./puntob.sh
+vim puntob.sh
+./puntob.sh
+vim puntob.sh
+./puntob.sh
+lsblk
+vim puntob.sh
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+./puntob.sh
+ls
+vim puntob.sh
+vim ./puntob.sh
+./puntob.sh
+lsblk
+ls
+vim puntob.sh
+ls
+lsblk
+sudo fdisk /dev/sdc
+lsnlk
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+sudo fdisk /dev/sdc
+ls
+lsblk
+sudo fdisk /dev/sdc
+df -h
+sudo swapoff /dev/sdc
+sudo fdisk /dev/sdc
+ll
+ls -a
+cd Parcial1/
+ls
+cd AySO-Parcial1-PatricioOrlando/
+ls
+cd Parcial1/
+ls
+cat ./bash_history | grep "77" >> puntoa.sh
+cat .bash_history 1 grep "77" >> puntoa.sh
+cat .bash_history
+cd
+ls -a
+sudo cat .bash_history
+ls
+cd Parcial1/
+ls
+cd AySO-Parcial1-PatricioOrlando/
+LS
+ls
+cd Parcial1/
+ls
+sudo cat ./bash_history | grep "mkdir -p Examenes-UTN/{alumno_1/{parcial_1,parcial_2,parcial_3},alumno_2/{parcial_1,parcial_2,parcial_3},alumno_3/{parcial_1,parcial_2,parcial_3},profesores}" >> puntoa.sh
+sudo cat .bash_history | grep "mkdir -p Examenes-UTN/{alumno_1/{parcial_1,parcial_2,parcial_3},alumno_2/{parcial_1,parcial_2,parcial_3},alumno_3/{parcial_1,parcial_2,parcial_3},profesores}" >> puntoa.sh
+cat ~/.bash_history | grep "mkdir -p Examenes-UTN/{alumno_1/{parcial_1,parcial_2,parcial_3},alumno_2/{parcial_1,parcial_2,parcial_3},alumno_3/{parcial_1,parcial_2,parcial_3},profesores}" >> puntoa.sh
+tree
+cat puntoa.sh
+vim puntob.sh
+ls
+lsblk
+sudo fdisk -l
+lsblk
+sudo fdisk /dev/sdc
+ls
+cd Parcial1/
+ls
+cd AySO-Parcial1-PatricioOrlando/
+ls
+cd Parcial1/
+ls
+cd ..
+ls
+cd ..
+l
+ls
+cd AySO-Parcial1-PatricioOrlando/
+ls
+git status
+git pull
+ls
+cd Parcial1/
+ls
+lsblk
+ls
+./puntob.sh
+lsblk
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd Parcial1/
+ls
+cd AySO-Parcial1-PatricioOrlando/
+ls
+cd Parcial1/
+ls
+cd Examenes-UTN/
+ls
+cd  ..
+ls
+cat puntob.sh
+cat puntoc.sh
+ls
+ll
+cd Examenes-UTN/
+ll
+cd ..
+ls
+vim puntoc.sh
+cat /etc/group
+sudo userdel programadores && sudo userdel tester && sudo userdel analistas && sudo userdel disenadores 
+cat /etc/passwd
+cat /etc/group
+sudo groupdel grupoprogramadores
+sudo groupdel grupotester
+sudo groupdel grupoanalistas
+sudo groupdel grupodisenadores
+ls
+cat /etc/group
+ls
+cat puntoc.sh
+ls
+vim puntoc.sh
+sudo ./puntoc.sh
+ll Examenes-UTN/
+git status
+git add .
+git commit -m "updating"
+git push
+ls
+vim puntod.sh
+ll
+chmod 755 puntod.sh
+ls
+./puntod.sh
+ls
+vim puntod.sh
+ls
+ls 
+vim puntoe.sh
+ls
+chmod 755 puntoe.sh
+ls
+./puntoe.sh
+ls
+cat Filtro_Basico.txt
+ls
+vim puntoe.sh
+./puntoe.sh
+vim puntoe.sh
+./puntoe.sh
+ls
+cat Filtro_Basico.txt
+ls
+git status
+git add .
+git commit -m "updating"
+git push
+ls
+curl -s ifconfig.me
+cat /etc/passwd
+cat /etc/shadow
+sudo cat /etc/shadow
+ls
+vim puntof.sh
+sudo cat /etc/shadow
+vim puntof.sh
+ls
+cat puntoe.sh
+chmod 755 puntof.sh
+ll
+./puntof.sh
+vim puntof.sh
+./puntof.sh
+vim puntof.sh
+./puntof.sh
+vim puntof.sh
+./puntof.sh
+vim puntof.sh
+./puntof.sh
+vim puntof.sh
+./puntof.sh
+vim puntof.sh
+./puntof.sh
+vim puntof.sh
+./puntof.sh
+vim puntof.sh
+./puntof.sh
+ls
+cat Filtro_Avanzado.txt
+vim puntof.sh
+./puntof.sh
+ls
+cat Filtro_Avanzado.txt
+vim puntof.sh
+./puntof.sh
+cat puntof.sh
+vim puntof.sh
+./puntof.sh
+ls
+cat Filtro_Avanzado.txt 
+vim puntof.sh
+ls
+rm -r Filtro_Avanzado.txt
+ls
+./puntof.sh
+ls
+cat Filtro_Avanzado.txt
+git status
+git add .
+git commit -m "updating"
+git push
+ls
+vim puntob.sh
+cat /etc/fstab
+vim /etc/fstab
+sudo vim /etc/fstab
+ls
+sudo cp /etc/fstab
+cp --help
+ls
+sudo cp /etc/fstab /Parcial1/AySO-Parcial1-PatricioOrlando/Parcial1
+git status
+git add .
+git commit -m "updating"
+git push
+cat puntob.sh
+vim puntob.sh
+git status
+git add .
+git commit -m "finished"
+git push
+git status
+ls
+cd ..
+ls
+cd Parcial1/
+ls
+cat ~/.bash_history > history.txt  
+ls
+cat history.txt
+ls
+history -a
