@@ -37,3 +37,6 @@ echo "Montar: "
 sudo mkdir -p /mnt/{sdc1,sdc2,sdc3,sdc5}
 sudo mount /dev/sdc1 /mnt/sdc1 && sudo mount /dev/sdc2 /mnt/sdc2 && sudo mount /dev/sdc3 /mnt/sdc3 && sudo mount /dev/sdc5 /mnt/sdc5
 
+
+#Guardado permanente
+
