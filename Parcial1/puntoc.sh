@@ -24,7 +24,6 @@ sudo useradd disenadores
 sudo usermod -aG grupodisenadores disenadores
 sudo usermod -aG grupodisenadores vagrant
 
-
 sudo chown -R programadores:grupoprogramadores Examenes-UTN/alumno_1
 sudo chmod -R 750 Examenes-UTN/alumno_1
 
@@ -36,3 +35,8 @@ sudo chmod -R 700 Examenes-UTN/alumno_3
 
 sudo chown -R disenadores:grupodisenadores Examenes-UTN/profesores
 sudo chmod -R 775 Examenes-UTN/profesores
+
+sudo -u programadores bash -c 'whoami > Examenes-UTN/alumno_1/validar.txt'
+sudo -u tester bash -c 'whoami > Examenes-UTN/alumno_2/validar.txt'
+sudo -u analista bash -c 'whoami > Examenes-UTN/alumno_3/validar.txt'
+sudo -u disenadores bash -c 'whoami > Examenes-UTN/profesores/validar.txt'
